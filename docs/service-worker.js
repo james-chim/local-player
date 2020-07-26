@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.b14eaeac7da15dbcb4e2c157e077ae6d.js"
+  "/local-player/precache-manifest.0b61df4844e489eb86ac938639a35630.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "local-repeat-player"});
